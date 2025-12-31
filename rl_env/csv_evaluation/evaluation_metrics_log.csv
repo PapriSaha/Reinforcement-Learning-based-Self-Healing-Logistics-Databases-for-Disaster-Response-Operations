@@ -1,0 +1,2 @@
+timestamp,mean_time_to_recovery,zero_downtime_success_rate,anomaly_resolution_accuracy,uptime_ratio
+2025-05-28 21:06:33,inf,1.0,0.4444444444444444,0.01
